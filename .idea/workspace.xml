@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d816ee44-2b27-48fe-a29a-b15bc8cd909d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="ProjectId" id="1kEuLEn0YtO940GKgKMcNlZCK2q" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/ch1/hello" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Test.TestArrayInit in array_test.go">
+    <configuration name="TestArrayInit in array_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="go_learning" />
+      <working_directory value="$PROJECT_DIR$/src/ch6/array" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/src/ch6/array/array_test.go" />
+      <pattern value="^\QTestArrayInit\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestIfCondition in condition_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="go_learning" />
+      <working_directory value="$PROJECT_DIR$/src/ch5/condition" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/src/ch5/condition/condition_test.go" />
+      <pattern value="^\QTestIfCondition\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestMultiCase in switch_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="go_learning" />
+      <working_directory value="$PROJECT_DIR$/src/ch5/condition" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/src/ch5/condition/switch_test.go" />
+      <pattern value="^\QTestMultiCase\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestPoint in type_test.go" type="GoTestRunConfiguration" factoryName="Go Test" nameIsGenerated="true">
+      <module name="go_learning" />
+      <working_directory value="$PROJECT_DIR$/src/ch3/type" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/src/ch3/type/type_test.go" />
+      <pattern value="^\QTestPoint\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestSwitch1 in switch_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="go_learning" />
+      <working_directory value="$PROJECT_DIR$/src/ch5/condition" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/src/ch5/condition/switch_test.go" />
+      <pattern value="^\QTestSwitch1\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestSwitch2 in switch_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="go_learning" />
+      <working_directory value="$PROJECT_DIR$/src/ch5/condition" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/src/ch5/condition/switch_test.go" />
+      <pattern value="^\QTestSwitch2\E$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.TestArrayInit in array_test.go" />
+        <item itemvalue="Go Test.TestMultiCase in switch_test.go" />
+        <item itemvalue="Go Test.TestSwitch2 in switch_test.go" />
+        <item itemvalue="Go Test.TestSwitch1 in switch_test.go" />
+        <item itemvalue="Go Test.TestIfCondition in condition_test.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1358" height="328" key="GridCell.Tab.0.bottom" timestamp="1605369488324">
+      <screen x="0" y="23" width="1792" height="1022" />
+    </state>
+    <state width="1358" height="266" key="GridCell.Tab.0.bottom/-1116.65.1116.733/0.23.1792.1024@0.23.1792.1024" timestamp="1605278594710" />
+    <state width="1358" height="328" key="GridCell.Tab.0.bottom/0.23.1792.1022@0.23.1792.1022" timestamp="1605369488324" />
+    <state width="1358" height="328" key="GridCell.Tab.0.bottom/0.23.1792.1024@0.23.1792.1024" timestamp="1605282263045" />
+    <state width="1358" height="328" key="GridCell.Tab.0.center" timestamp="1605369488324">
+      <screen x="0" y="23" width="1792" height="1022" />
+    </state>
+    <state width="1358" height="266" key="GridCell.Tab.0.center/-1116.65.1116.733/0.23.1792.1024@0.23.1792.1024" timestamp="1605278594709" />
+    <state width="1358" height="328" key="GridCell.Tab.0.center/0.23.1792.1022@0.23.1792.1022" timestamp="1605369488324" />
+    <state width="1358" height="328" key="GridCell.Tab.0.center/0.23.1792.1024@0.23.1792.1024" timestamp="1605282263043" />
+    <state width="1358" height="328" key="GridCell.Tab.0.left" timestamp="1605369488323">
+      <screen x="0" y="23" width="1792" height="1022" />
+    </state>
+    <state width="1358" height="266" key="GridCell.Tab.0.left/-1116.65.1116.733/0.23.1792.1024@0.23.1792.1024" timestamp="1605278594708" />
+    <state width="1358" height="328" key="GridCell.Tab.0.left/0.23.1792.1022@0.23.1792.1022" timestamp="1605369488323" />
+    <state width="1358" height="328" key="GridCell.Tab.0.left/0.23.1792.1024@0.23.1792.1024" timestamp="1605282263043" />
+    <state width="1358" height="328" key="GridCell.Tab.0.right" timestamp="1605369488324">
+      <screen x="0" y="23" width="1792" height="1022" />
+    </state>
+    <state width="1358" height="266" key="GridCell.Tab.0.right/-1116.65.1116.733/0.23.1792.1024@0.23.1792.1024" timestamp="1605278594709" />
+    <state width="1358" height="328" key="GridCell.Tab.0.right/0.23.1792.1022@0.23.1792.1022" timestamp="1605369488324" />
+    <state width="1358" height="328" key="GridCell.Tab.0.right/0.23.1792.1024@0.23.1792.1024" timestamp="1605282263045" />
+    <state width="1358" height="328" key="GridCell.Tab.1.bottom" timestamp="1605369488325">
+      <screen x="0" y="23" width="1792" height="1022" />
+    </state>
+    <state width="1358" height="328" key="GridCell.Tab.1.bottom/0.23.1792.1022@0.23.1792.1022" timestamp="1605369488325" />
+    <state width="1358" height="328" key="GridCell.Tab.1.bottom/0.23.1792.1024@0.23.1792.1024" timestamp="1605282263046" />
+    <state width="1358" height="328" key="GridCell.Tab.1.center" timestamp="1605369488324">
+      <screen x="0" y="23" width="1792" height="1022" />
+    </state>
+    <state width="1358" height="328" key="GridCell.Tab.1.center/0.23.1792.1022@0.23.1792.1022" timestamp="1605369488324" />
+    <state width="1358" height="328" key="GridCell.Tab.1.center/0.23.1792.1024@0.23.1792.1024" timestamp="1605282263045" />
+    <state width="1358" height="328" key="GridCell.Tab.1.left" timestamp="1605369488324">
+      <screen x="0" y="23" width="1792" height="1022" />
+    </state>
+    <state width="1358" height="328" key="GridCell.Tab.1.left/0.23.1792.1022@0.23.1792.1022" timestamp="1605369488324" />
+    <state width="1358" height="328" key="GridCell.Tab.1.left/0.23.1792.1024@0.23.1792.1024" timestamp="1605282263045" />
+    <state width="1358" height="328" key="GridCell.Tab.1.right" timestamp="1605369488324">
+      <screen x="0" y="23" width="1792" height="1022" />
+    </state>
+    <state width="1358" height="328" key="GridCell.Tab.1.right/0.23.1792.1022@0.23.1792.1022" timestamp="1605369488324" />
+    <state width="1358" height="328" key="GridCell.Tab.1.right/0.23.1792.1024@0.23.1792.1024" timestamp="1605282263046" />
+    <state x="397" y="174" key="SettingsEditor" timestamp="1605278761221">
+      <screen x="0" y="23" width="1792" height="1024" />
+    </state>
+    <state x="397" y="174" key="SettingsEditor/0.23.1792.1024@0.23.1792.1024" timestamp="1605278761221" />
+    <state x="683" y="320" key="chooseDestDirectoryDialog" timestamp="1605279272995">
+      <screen x="0" y="23" width="1792" height="1024" />
+    </state>
+    <state x="683" y="320" key="chooseDestDirectoryDialog/0.23.1792.1024@0.23.1792.1024" timestamp="1605279272995" />
+    <state x="561" y="260" width="670" height="676" key="search.everywhere.popup" timestamp="1605280454459">
+      <screen x="0" y="23" width="1792" height="1024" />
+    </state>
+    <state x="561" y="260" width="670" height="676" key="search.everywhere.popup/0.23.1792.1024@0.23.1792.1024" timestamp="1605280454459" />
+  </component>
+</project>
