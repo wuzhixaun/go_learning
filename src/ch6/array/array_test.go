@@ -1,6 +1,8 @@
 package array
 
-import "testing"
+import (
+	"testing"
+)
 
 func TestArrayInit(t *testing.T) {
 	// 定义长度为4的数组
@@ -29,6 +31,27 @@ func TestArrayLoop(t *testing.T) {
 	arr3 := [...]int{1, 2, 3, 4, 5, 6, 7, 89, 10}
 
 	for i := 0; i < len(arr3); i++ {
-		t.Log(arr3[i])
+		//t.Log(arr3[i])
 	}
+
+	for idx,e:= range arr3 {
+		t.Log(idx,e)
+	}
+}
+
+// 数组的截取
+func TestArraySection(t *testing.T)  {
+
+	arr := [...]int{1, 2, 3, 4, 5, 6, 7, 89, 10}
+
+	// 截取前三个元素
+	arrSec := arr[:3]
+	t.Log(arrSec)
+
+	// 截取第三个元素后面的元素
+	arrsec2:= arr[3:]
+	t.Log(arrsec2)
+
+	//
+
 }
