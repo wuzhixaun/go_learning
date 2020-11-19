@@ -1,6 +1,9 @@
 package encapsulation
 
-import "fmt"
+import (
+	"fmt"
+	"testing"
+)
 
 // 创建model
 type Employee struct {
@@ -10,9 +13,12 @@ type Employee struct {
 }
 
 func (e Employee) String() string {
-	return fmt.Sprintf("IDL%s-name:%s-Age:%d", e.Id, e.Name, e.Age)
+	return fmt.Sprintf("ID:%s-name:%s-Age:%d", e.Id, e.Name, e.Age)
 }
 
-func TestCreateEp() {
+func TestCreateEp(t *testing.T) {
 
+	e := &Employee{"0", "Bob", 20}
+
+	t.Log(e.String())
 }
