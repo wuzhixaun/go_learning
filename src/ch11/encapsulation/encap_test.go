@@ -13,9 +13,12 @@ type Employee struct {
 }
 
 func (e Employee) String() string {
-	return fmt.Sprintf("IDL%s-name:%s-Age:%d", e.Id, e.Name, e.Age)
+	return fmt.Sprintf("ID:%s-name:%s-Age:%d", e.Id, e.Name, e.Age)
 }
 
 func TestCreateEp(t *testing.T) {
 
+	e := &Employee{"0", "Bob", 20}
+
+	t.Log(e.String())
 }
